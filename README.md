@@ -1,0 +1,8 @@
+# ean2product
+This project aims to provide a solution for finding the right product for a given EAN (European Article Number).
+
+## How-To?
+Start the application and open URL "localhost:8080/ean/{ean}". Replace {ean} with your desired EAN.
+
+## What else?
+The search results get saved in a Mongo-Database. The connection details can be set via "application.properties". A template is provided.
