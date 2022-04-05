@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class Ean2ProductApplication
 
 fun main(args: Array<String>) {
-	runApplication<RestApiApplication>(*args)
+	runApplication<Ean2ProductApplication>(*args)
 }
